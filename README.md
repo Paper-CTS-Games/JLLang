@@ -15,3 +15,7 @@ Program:
     }
 end.
 ```
+
+```
+$> JLang.exe main.jl -cp:class1;class2
+```
