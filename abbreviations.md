@@ -10,5 +10,5 @@
 ### UM - unmanaged module.
 (module.umodule) contains all compiled units (similar to CApp, but doesn't have entry point). 
 
-### FU - file unit.
+### SFU - source file unit.
 (app.jls) source files (JLS^) 
