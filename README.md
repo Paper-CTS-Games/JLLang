@@ -1,5 +1,5 @@
 # JLLang
-Similar to Java language.
+Java like programming language. 
 
 
 App source to JLLang byte code:
