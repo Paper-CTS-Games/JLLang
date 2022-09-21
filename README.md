@@ -1,7 +1,7 @@
 # JLang
 Similar to Java & C#, but more understandable language.
 
-Current language version is v0.2;
+Current language runtime version is v0.2;
 
 
 ```
