@@ -8,4 +8,7 @@
 (app.cso) contains all compiled units.
 
 ### UM - unmanaged module.
-(module.umodule) contains all compiled units (like in CApp, but doesn't have entry point). 
+(module.umodule) contains all compiled units (similar to CApp, but doesn't have entry point). 
+
+### FU - file unit.
+(app.jls) source files (JLS^) 
