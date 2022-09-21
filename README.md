@@ -1,4 +1,4 @@
-# JLang
+# JLLang
 Similar to Java language.
 
 
