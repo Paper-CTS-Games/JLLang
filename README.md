@@ -3,5 +3,5 @@ Similar to Java language.
 
 
 ```
-$> JLang.exe main.jl -cp:class1;class2
+$> JLang.Compiler.exe main -fp:filename1;filename2
 ```
