@@ -1,5 +1,5 @@
 # JLang
-Similar to Java & C#, but more understandable language.
+Similar to Java language.
 
 
 ```
