@@ -2,8 +2,8 @@
 Similar to Java language.
 
 
-App source to JLang byte code:
+App source to JLLang byte code:
 ```
 
-$> jlangc.exe main -fp:filename1;filename2
+$> jllangc.exe main -fp:filename1;filename2
 ```
